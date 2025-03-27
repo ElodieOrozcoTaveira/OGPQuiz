@@ -24,15 +24,15 @@ Tout ce que j'ai pu apprendre afin de travailler le Front-End et le Back End.
 1. ❎   Soit le dépôt a été créé sur GitHub et on le récupère (`git clone …`) (y ajouter le README.md)
 2. Soit on initialise le dépôt avec (`git init`) pour ajouter plus tard le dépôt distant (GitHub ou autre).
 3. Mise en place de l'arborescence du dossier devant accueillir notre application
-    - integration
-    - app
+    ❎- integration
+    ❎- app
       - router
       - dataMappers
       - controllers
       - views
-    - data (jsons, script import sql…)
-    - docs (brief, mcd, users stories…)
-    - database (.sql)
+    ❎- data (jsons, script import sql…)
+    ❎- docs (brief, mcd, users stories…)
+    ❎- database (.sql)
 4. Initialisation du gestionnaire de modules (npm) `npm init -y`
 5. Installation des modules nécessaires `npm i …`
 6. ❎Ajout du fichier .gitignore (node_module/, .env, …)
