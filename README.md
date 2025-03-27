@@ -1,10 +1,10 @@
-### Ocoffee ☕
+### OMotos 🏍️
 
 **Projet de Formation**
 
-O'Coffee me permet de revoir tout ce que j'ai pu apprendre depuis le début de ma formation (06/01), 
-
-et de mettre en pratique : 
+OMotos va me permettre de revoir tout ce que j'ai pu apprendre depuis le début de ma formation (06/01).
+Au lieu de refaire le projet de formation Ocoffee, je me réentraine avec un projet OMotos qui va me permettre
+pratiquer : 
 
 -HTML ✍️
 -CSS 🌈
@@ -16,7 +16,7 @@ et de mettre en pratique :
 
 Tout ce que j'ai pu apprendre afin de travailler le Front-End et le Back End.
 
-*(je refais ce Projet avec les corrections constructives faites par mon formateur, en espérant que je fasse un meilleur projet 😄)*
+*(je refais ce Projet en prenant compte les corrections constructives faites par mon formateur, en espérant que je fasse un meilleur projet 😄)*
 
 ## RoadMap 
 
