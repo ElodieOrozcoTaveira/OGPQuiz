@@ -1,7 +1,6 @@
 [
-PILOTES 
-
-{
+ 
+    {
     "id" : 1,
     "nom" : "Martin",
     "prenom": "Jorge",
@@ -301,24 +300,4 @@ PILOTES
 
 },
 
-
-
-
-
-TEAM
-id
-nom
-pays
-manager
-
-
-
-CALENDRIER
-id
-circuit
-date
-lieu
-pays
-
-}
 ]
