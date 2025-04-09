@@ -2,6 +2,8 @@
 
 **Projet de Formation**
 
+*Objectif => Essayer de faire un Quizz Moto sur les pilotes et teams.*
+
 OMotos va me permettre de revoir tout ce que j'ai pu apprendre depuis le début de ma formation (06/01).
 Au lieu de refaire le projet de formation Ocoffee, je me réentraine avec un projet OMotos qui va me permettre
 pratiquer : 

@@ -3,76 +3,96 @@
     "id": 1,
     "nom": "Aprilia Racing",
     "pays": "Italie",
-    "manager": "Massimo Rivola"
+    "manager": "Massimo Rivola",
+    "reference": "101"
 }
 
 {
     "id": 2,
     "nom": "BK8 Gresini Racing",
     "pays": "Italie",
-    "manager": "Nadia Padovani"
+    "manager": "Nadia Padovani",
+    "reference": "102"
 }
 
 {
     "id": 3,
     "nom": "Ducati Lenovo Team",
     "pays": "Italie",
-    "manager": "Luigi Dall'Igna"
+    "manager": "Luigi Dall'Igna",
+    "reference": "103"
+
 }
 
 {
     "id": 4,
     "nom": "Honda HRC Castrol",
     "pays": "Japon",
-    "manager": "Alberto Puig"
+    "manager": "Alberto Puig",
+    "reference": "104"
+
 }
 
 {
     "id": 5,
     "nom": "LCR Honda Castrol",
     "pays": "Japon",
-    "manager": "Lucio Cecchinello"
+    "manager": "Lucio Cecchinello",
+    "reference": "105"
+
 }
 
 {
     "id": 6,
     "nom": "Yamaha Factory Racing",
     "pays": "Japon",
-    "manager": "Paolo Pavesio"
+    "manager": "Paolo Pavesio",
+    "reference": "106"
+
 }
 
 {
     "id": 7,
     "nom": "VR46 Racing Team",
     "pays": "Italie",
-    "manager": "Uccio Salucci"
+    "manager": "Uccio Salucci",
+    "reference": "107"
+
 }
 
 {
     "id": 8,
     "nom": "Pramac Racing",
     "pays": "Italie",
-    "manager": "Gino Borsoi"
+    "manager": "Gino Borsoi",
+    "reference": "108"
+
 }
 
 {
     "id": 9,
     "nom": "KTM Factory Racing",
     "pays": "Autriche",
-    "manager": "Aki Ajo"
+    "manager": "Aki Ajo",
+    "reference": "109"
+
 }
 
 {
     "id": 10,
     "nom": "Tech 3 KTM Factory Racing",
     "pays": "France",
-    "manager": "Hervé Poncharal"
+    "manager": "Hervé Poncharal",
+    "reference": "110"
+
 }
 
 {
     "id": 11,
     "nom": "Trackhouse Racing Team",
     "pays": "Etats-Unis",
-    "manager": "Davide Brivio"
+    "manager": "Davide Brivio",
+    "reference": "111"
+
 }
 

@@ -4,3 +4,184 @@ circuit
 date
 lieu
 pays
+
+{
+    "id": 1,
+    "circuit": "PT Grand Prix of Thailand",
+    "date" : "28 FEVR-2MARS",
+    "lieu": "Buriram",
+    "pays": "Thailande"
+}
+
+{
+    "id":2,
+    "circuit": "Gran Premio YPF Energia de Argentina",
+    "date" : "14MARS-16MARS",
+    "lieu": "Termas de Rio Hondo",
+    "pays": "Argentine"
+}
+
+{
+    "id": 3,
+    "circuit": "Red Bull Grand Prix of the Americas",
+    "date" : "28MARS-30MARS",
+    "lieu": "Austin",
+    "pays": "Eta-Unis"
+}
+
+{
+    "id": 4,
+    "circuit": "Qatar Airways Grand Prix of Qatar",
+    "date" : "11AVR-13AVR",
+    "lieu": "Losail",
+    "pays": "Qatar"
+}
+
+{
+    "id": 5,
+    "circuit": "Gran Premio Estrella Gallicia 0,0 de Espana",
+    "date" : "25AVR-27AVR",
+    "lieu": "Jerez",
+    "pays": "Espagne"
+}
+
+{
+    "id": 6,
+    "circuit": "Michelin Granx Prix Le Mans",
+    "date" : "09MAI-11MAI",
+    "lieu": "Le Mans",
+    "pays": "France"
+}
+
+{
+    "id": 7,
+    "circuit": "Tissot British Grand Prix",
+    "date" : "23MAI-25MAI",
+    "lieu": "Silverstone",
+    "pays": "Grande Bretagne"
+}
+
+{
+    "id": 8,
+    "circuit": "Gran Premio GoPro de Aragon",
+    "date" : "06JUIN-08JUIN",
+    "lieu": "Aragon",
+    "pays": "Espagne"
+}
+
+{
+    "id": 9,
+    "circuit": "Gran Premoip d'Italia Oakley",
+    "date" : "20JUIN-22JUIN",
+    "lieu": "Mugello",
+    "pays": "Italie"
+}
+
+{
+    "id": 10,
+    "circuit": "Motul TT Assen",
+    "date" : "27JUIN-29JUIN",
+    "lieu": "Assen",
+    "pays": "Pays-Bas"
+}
+
+{
+    "id": 11,
+    "circuit": "Liqui Moly Motorrad Grand Prix Deutschland",
+    "date" : "11JUL-13JUL",
+    "lieu": "Sacshenring",
+    "pays": "Allemagne"
+}
+
+{
+    "id": 12,
+    "circuit": "CGrand Prix of Czechia",
+    "date" : "18JUL-20JUL",
+    "lieu": "Brno",
+    "pays": "République Tchèque"
+}
+
+{
+    "id": 13,
+    "circuit": "Mtorrad Grand Prix von Osterreich",
+    "date" : "15AOUT-17AOUT",
+    "lieu": "Spielberg",
+    "pays": "Autriche"
+}
+
+{
+    "id": 14,
+    "circuit": "Grand Prix of Hungary",
+    "date" : "22AOUT-24AOUT",
+    "lieu": "Hungaroring",
+    "pays": "Hongrie"
+}
+
+{
+    "id": 15,
+    "circuit": "Gran Premi Monster Energy de Catalunya",
+    "date" : "05SEP-07SEP",
+    "lieu": "Montmelo",
+    "pays": "Espagne"
+}
+
+{
+    "id": 16,
+    "circuit": "Gran Premio Red Bull di San Marino e della Riviera di Rimini",
+    "date" : "12SEP-14SEP",
+    "lieu": "Misano",
+    "pays": "Italie"
+    
+}
+
+{
+    "id": 17,
+    "circuit": "Motul Grand Prix of Japan",
+    "date" : "26SEP-28SEP",
+    "lieu": "Motegi",
+    "pays": "Japon"
+}
+
+{
+    "id": 18,
+    "circuit": "Pertamina Grand Prix of Indonesia",
+    "date" : "03OCT-05OCT",
+    "lieu": "Mandalika",
+    "pays": "Indonésie"
+}
+
+{
+    "id": 19,
+    "circuit": "Australian Motorcycle Grand Prix",
+    "date" : "17OCT-19OCT",
+    "lieu": "Phillip Island",
+    "pays": "Australie"
+}
+
+{
+    "id": 20,
+    "circuit": "Petronas Grand Prix of Malaysia",
+    "date" : "24OCT-26OCT",
+    "lieu": "Sepang",
+    "pays": "Malaysie"
+}
+
+{
+    "id": 21,
+    "circuit": "Qatar Airways Grande Prémio de Portugal",
+    "date" : "07NOV-09NOV",
+    "lieu": "Portimao",
+    "pays": "Portugal"
+    
+}
+
+{
+    "id": 22,
+    "circuit": "Gran Premio Motul de la Comunitat Valenciana",
+    "date" : "14NOV-16NOV",
+    "lieu": "Valence",
+    "pays": "Espagne"
+}
+
+
+
