@@ -1,4 +1,4 @@
-### OMotos 🏍️
+### O'GPQuiz 🏍️
 
 **Projet de Formation**
 
@@ -51,6 +51,20 @@ Tout ce que j'ai pu apprendre afin de travailler le Front-End et le Back End.
 13. Router `./app/router.js`
 14. Les test des routes
 
+## Plan
 
+[] intégration images: avoir les images des pilotes, teams, circuits
+[] 5 questions par pilotes, teams, , circuits
+
+[] user storie
+[] wireframes
+[] mcd/mpd/mld
+[] 
+[]
+[]
+[]
+[]
+[]
+[]
 
 
