@@ -1,155 +1,129 @@
-**Ducati Lenovo Team**
+🏁 1. Ducati Corse
+Q1 : Quelle est la clé du succès actuel de Ducati ?
+A) Le facteur chance
+✅ B) Un moteur performant et une technologie de pointe
+C) Le style de pilotage italien
 
-Q: Quels sont les deux pilotes titulaires de Ducati Lenovo Team en 2025 ?
-R: Francesco Bagnaia et Marc Márquez
-Q: De quel pays est originaire l'équipe Ducati ?
-R: Italie
-Q: Qui est le directeur de l'équipe Ducati Lenovo Team ?
-R: Davide Tardozzi
-Q: Quelle est la couleur principale des motos Ducati Lenovo Team ?
-R: Rouge
-Q: Dans quelle ville italienne se trouve le siège de Ducati ?
-R: Bologne
+Q2 : Quel pilote représente le mieux Ducati ?
+A) Joan Mir
+✅ B) Francesco Bagnaia
+C) Maverick Viñales
 
-**Monster Energy Yamaha MotoGP**
+Q3 : Quelle est la force principale de la Desmosedici ?
+A) Sa capacité à glisser en virage
+✅ B) Sa stabilité au freinage et son accélération
+C) Son bruit mythique
 
-Q: Quels sont les deux pilotes titulaires de Yamaha en 2025 ?
-R: Fabio Quartararo et Alex Rins
-Q: De quel pays est originaire l'équipe Yamaha ?
-R: Japon
-Q: Quel est le nom du modèle de la moto Yamaha utilisée en MotoGP ?
-R: YZR-M1
-Q: Qui est le directeur de l'équipe Monster Energy Yamaha MotoGP ?
-R: Lin Jarvis
-Q: Quelles sont les couleurs principales de l'équipe Monster Energy Yamaha MotoGP ?
-R: Bleu et noir
+Q4 : Quel est l’objectif 2025 pour Ducati ?
+✅ A) Remporter le titre pilotes et constructeurs
+B) Tester de nouveaux pneus
+C) Former des jeunes
 
-**Aprilia Racing**
+Q5 : Qui sont leurs plus grands rivaux cette saison ?
+✅ A) KTM et Aprilia
+B) LCR Honda et Trackhouse
+C) Pramac et Tech3
 
-Q: Quels sont les deux pilotes titulaires d'Aprilia Racing en 2025 ?
-R: Marc Bezzechi et Jorge Martín
-Q: De quel groupe industriel fait partie Aprilia ?
-R: Groupe Piaggio
-Q: Dans quelle ville italienne se trouve le siège d'Aprilia ?
-R: Noale
-Q: Quel est le nom du modèle de la moto Aprilia utilisée en MotoGP ?
-R: RS-GP
-Q: En quelle année Aprilia est-elle revenue en MotoGP en tant qu'équipe d'usine ?
-R: 2015
+🏁 2. KTM Factory Racing
+Q1 : Qu’est-ce qui explique le bon début de saison de KTM ?
+A) Un planning allégé
+✅ B) Un gros travail hivernal et des choix techniques forts
+C) Une météo favorable
 
-**Red Bull KTM Factory Racing**
+Q2 : Quel composant est devenu une force pour KTM ?
+A) Les pneus
+✅ B) Le châssis en carbone
+C) Le carénage arrière
 
-Q: Quels sont les deux pilotes titulaires de KTM Factory Racing en 2025 ?
-R: Brad Binder et Pedro Acosta
-Q: De quel pays est originaire l'équipe KTM ?
-R: Autriche
-Q: Quel est le nom du modèle de la moto KTM utilisée en MotoGP ?
-R: RC16
-Q: Qui est le directeur de Red Bull KTM Factory Racing ?
-R: Pit Beirer
-Q: Dans quelle ville autrichienne se trouve le siège de KTM ?
-R: Mattighofen
+Q3 : Quel mot décrit Brad Binder selon l’équipe ?
+A) Stratégique
+✅ B) Guerrier
+C) Timide
 
-**Honda Castrol Team**
+Q4 : Quelle est la différence par rapport à 2023 ?
+✅ A) Plus de constance et de polyvalence
+B) Une moto plus lente mais stable
+C) Moins d’essais privés
 
-Q: Quels sont les deux pilotes titulaires de Repsol Honda en 2025 ?
-R: Joan Mir et Luca Marini
-Q: De quel pays est originaire l'équipe Honda Racing Corporation (HRC) ?
-R: Japon
-Q: Quel est le nom du modèle de la moto Honda utilisée en MotoGP ?
-R: RC213V
-Q: Combien de titres constructeurs Honda a-t-elle remportés en catégorie reine avant 2025 ?
-R: 25
-Q: Quelles sont les couleurs principales de l'équipe Repsol Honda ?
-R: Bleu, blanc et rouge
+Q5 : KTM peut-il viser le titre cette année ?
+A) Non, pas encore
+B) Uniquement en team satellite
+✅ C) Oui, c’est possible avec ce rythme
 
-**Prima Pramac Racing**
+🏁 3. Aprilia Racing Team
+Q1 : Aprilia a-t-elle progressé ?
+A) Non, elle stagne
+✅ B) Oui, elle joue dans la cour des grands
+C) Elle a changé de pilote
 
-Q: Quels sont les deux pilotes titulaires de Prima Pramac Racing en 2025 ?
-R: Miguel Oliveira et Jack Miller
-Q: Quelle marque de motos utilise l'équipe Prima Pramac Racing ?
-R: Yamaha
-Q: De quel pays est originaire l'équipe Prima Pramac Racing ?
-R: Italie
-Q: Qui est le propriétaire de l'équipe Prima Pramac Racing ?
-R: Paolo Campinoti
-Q: Quelles sont les couleurs principales de l'équipe Prima Pramac Racing ?
-R: Bleu et violet
+Q2 : Quel est le rôle d’Aleix Espargaró dans l’équipe ?
+A) Testeur
+✅ B) Leader et moteur de motivation
+C) Directeur sportif
 
-**Gresini Racing MotoGP**
+Q3 : Atout principal de la RS-GP ?
+A) Sa vitesse en ligne droite
+✅ B) Son agilité et sa stabilité
+C) Son carénage coloré
 
-Q: Quels sont les deux pilotes titulaires de Gresini Racing en 2025 ?
-R: Álex Márquez et Fermín Aldeguer
-Q: Quelle marque de motos utilise l'équipe Gresini Racing ?
-R: Ducati
-Q: Qui a fondé l'équipe Gresini Racing ?
-R: Fausto Gresini
-Q: Qui dirige l'équipe Gresini Racing depuis le décès de son fondateur ?
-R: Nadia Padovani (veuve de Fausto Gresini)
-Q: Dans quelle ville italienne est basée l'équipe Gresini Racing ?
-R: Faenza
+Q4 : L’approche développement chez Aprilia ?
+A) Calme et prudente
+✅ B) Continue, course après course
+C) Centrée uniquement sur le moteur
 
-**VR46 Racing Team**
+Q5 : Objectif 2025 ?
+A) Finir dans le top 10
+B) Former un jeune pilote
+✅ C) Viser le podium régulièrement
 
-Q: Quels sont les deux pilotes titulaires de VR46 Racing Team en 2025 ?
-R: Franco Morbidelli et Fabio Di Giannantonio
-Q: Qui est le propriétaire de l'équipe VR46 Racing Team ?
-R: Valentino Rossi
-Q: Quelle marque de motos utilise l'équipe VR46 Racing Team ?
-R: Ducati
-Q: Que signifient les lettres "VR" dans le nom de l'équipe ?
-R: Valentino Rossi
-Q: En quelle année l'équipe VR46 a-t-elle fait ses débuts en MotoGP ?
-R: 2022
+🏁 4. Yamaha Factory
+Q1 : Yamaha est-elle en reconquête ?
+✅ A) Oui, grâce à des changements majeurs
+B) Non, elle joue la défense
+C) Elle se concentre sur la Moto2
 
-**LCR Castrol Honda**
+Q2 : Fabio Quartararo est-il en confiance ?
+A) Pas vraiment
+B) Il pense changer d’équipe
+✅ C) Oui, avec les améliorations techniques
 
-Q: Quels est le pilote de LCR Castrol Honda en 2025 ?
-R: Johann Zarco
-Q: Que signifie l'acronyme "LCR" ?
-R: Lucio Cecchinello Racing
-Q: Qui est le fondateur et propriétaire de l'équipe LCR Honda ?
-R: Lucio Cecchinello
-Q: En quelle année l'équipe LCR a-t-elle fait ses débuts en catégorie reine (MotoGP) ?
-R: 2006
-Q: De quel pays est originaire l'équipe LCR Honda ?
-R: Italie/Monaco (basée à Monaco)
+Q3 : Priorité hivernale de Yamaha ?
+A) Le look de la moto
+✅ B) Plus de puissance et motricité
+C) Embaucher de nouveaux mécanos
 
-**KTM Tech3**
+Q4 : Le duo Quartararo–Rins fonctionne-t-il ?
+✅ A) Oui, bien complémentaires
+B) Non, ils se gênent
+C) On ne les voit pas ensemble
 
-Q: Quels sont les deux pilotes titulaires de KTM Tech3 en 2025 ?
-R: Maverick Vinales et Enea Bastianini
-Q: De quelle nationalité est l'équipe Tech3 ?
-R: Française
-Q: Qui est le fondateur et directeur de l'équipe Tech3 ?
-R: Hervé Poncharal
-Q: En quelle année Tech3 a-t-elle commencé son partenariat avec KTM en MotoGP ?
-R: 2019
-Q: Dans quelle ville française se trouve le siège de l'équipe Tech3 ?
-R: Bormes-les-Mimosas
+Q5 : Objectif de Yamaha fin 2025 ?
+A) Rester en milieu de grille
+✅ B) Remonter sur le podium final
+C) Devenir team satellite
 
-**Trackhouse Racing**
+🏁 5. Repsol Honda
+Q1 : Où en est Honda ?
+✅ A) En reconstruction mais ambitieux
+B) Au sommet
+C) En fin de cycle
 
-Q: Quels sont les deux pilotes titulaires de Trackhouse Racing en 2025 ?
-R: Ai Ogura et Raúl Fernández
-Q: Quelle marque de motos utilise l'équipe Trackhouse Racing ?
-R: Aprilia
-Q: De quel pays est originaire l'équipe Trackhouse Racing ?
-R: États-Unis
-Q: Qui est le propriétaire de l'équipe Trackhouse Racing ?
-R: Justin Marks
-Q: Dans quel autre sport automobile l'équipe Trackhouse Racing était-elle impliquée avant d'entrer en MotoGP ?
-R: NASCAR
+Q2 : Après le départ de Marquez, que fait Honda ?
+A) Cherche un remplaçant vite
+✅ B) Repart avec une nouvelle dynamique
+C) Change de discipline
 
-**Team Asia Honda**
+Q3 : Le châssis Kalex, c’est... ?
+A) Une ancienne pièce réutilisée
+✅ B) Une vraie évolution technique
+C) Un changement esthétique
 
-Q: Quel est le pilote titulaire de Team Asia Honda en 2025 ?
-R: Somkiat Chantra
-Q: Quel est le nom officiel complet de cette équipe ?
-R: IDEMITSU Honda Team Asia
-Q: Qui est le directeur de l'équipe IDEMITSU Honda Team Asia ?
-R: Hiroshi Aoyama
-Q: Quelle entreprise est le sponsor principal de cette équipe ?
-R: IDEMITSU
-Q: Quel est l'objectif principal de cette équipe dans le championnat MotoGP ?
-R: Développer les talents asiatiques dans les compétitions internationales de moto
+Q4 : Quelle est la priorité de Honda ?
+✅ A) Redonner confiance aux pilotes
+B) Tester des pneus pluie
+C) Faire plus de show
+
+Q5 : Honda peut-il rebondir cette saison ?
+A) Impossible
+✅ B) Oui, avec du travail et de la stabilité
+C) Seulement en wild-card

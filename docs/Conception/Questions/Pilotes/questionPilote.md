@@ -1,286 +1,705 @@
-**Francesco Bagnaia**
-Q: Quel est le surnom de Francesco Bagnaia ?
-R: Pecco
-Q: Pour quelle équipe Francesco Bagnaia court-il en 2025 ?
-R: Ducati Lenovo Team
-Q: En quelle année Francesco Bagnaia a-t-il remporté son premier titre MotoGP ?
-R: 2022
-Q: De quelle nationalité est Francesco Bagnaia ?
-R: Italienne
-Q: Quel numéro Francesco Bagnaia porte-t-il sur sa moto ?
-R: 63
+# Quiz MotoGP 2025 - Questions par Pilote
 
-**Marc Márquez**
-Q: Combien de titres Marc Márquez a-t-il remportés en catégorie MotoGP avant 2025 ?
-R: 6
-Q: Quel surnom donne-t-on souvent à Marc Márquez ?
-R: El Hormiga (La Fourmi) ou The Ant
-Q: Pour quelle équipe Marc Márquez court-il en 2025 ?
-R: Ducati Lenovo Team
-Q: De quelle ville espagnole est originaire Marc Márquez ?
-R: Cervera
-Q: Quel numéro Marc Márquez porte-t-il traditionnellement sur sa moto ?
-R: 93
+## Johann Zarco (#5, CASTROL Honda LCR)
 
-**Fabio Quartararo**
+**Question 1:** De quelle nationalité est Johann Zarco ?
+- [ ] Espagnole
+- [x] Française
+- [ ] Italienne
+- [ ] Suisse
 
-Q: Quel est le surnom de Fabio Quartararo ?
-R: El Diablo
-Q: Pour quelle équipe Fabio Quartararo court-il en 2025 ?
-R: Monster Energy Yamaha MotoGP
-Q: En quelle année Fabio Quartararo a-t-il remporté son titre de champion du monde MotoGP ?
-R: 2021
-Q: Dans quelle ville française Fabio Quartararo est-il né ?
-R: Nice
-Q: Quel numéro Fabio Quartararo porte-t-il sur sa moto ?
-R: 20
+**Question 2:** Dans quelle catégorie Johann Zarco a-t-il remporté deux titres mondiaux avant d'accéder à la MotoGP ?
+- [ ] 125cc
+- [x] Moto2
+- [ ] Moto3
+- [ ] Superbike
 
-**Jorge Martín**
+**Question 3:** Quelle équipe Johann Zarco a-t-il rejoint pour la saison MotoGP 2025 ?
+- [ ] Pramac Racing
+- [ ] Repsol Honda
+- [x] CASTROL Honda LCR
+- [ ] Tech3
 
-Q: Quel est le surnom de Jorge Martín ?
-R: Martinator
-Q: Pour quelle équipe Jorge Martín court-il en 2025 ?
-R: Aprilia Racing
-Q: Dans quelle catégorie Jorge Martín a-t-il été champion du monde en 2018 ?
-R: Moto3
-Q: De quelle nationalité est Jorge Martín ?
-R: Espagnole
-Q: Dans quelle ville est né Jorge Martín ?
-R: Madrid
+**Question 4:** Quelle est la particularité de la célébration de Johann Zarco après une victoire ?
+- [ ] Il fait un wheelie
+- [x] Il fait un backflip
+- [ ] Il plante un drapeau sur la piste
+- [ ] Il fait un stoppie
 
-**Enea Bastianini**
+**Question 5:** Quel numéro Johann Zarco a-t-il utilisé la majeure partie de sa carrière en MotoGP ?
+- [ ] #1
+- [ ] #3
+- [x] #5
+- [ ] #9
 
-Q: Quel est le surnom d'Enea Bastianini ?
-R: La Bestia (La Bête)
-Q: Pour quelle équipe Enea Bastianini court-il en 2025 ?
-R: KTM Factory Racing
-Q: En quelle année Enea Bastianini a-t-il fait ses débuts en MotoGP ?
-R: 2021
-Q: De quelle ville italienne est originaire Enea Bastianini ?
-R: Rimini
-Q: Quel numéro Enea Bastianini porte-t-il sur sa moto ?
-R: 23
+## Luca Marini (#10, Honda HRC)
 
-**Pedro Acosta**
+**Question 1:** Avec quel pilote légendaire Luca Marini a-t-il un lien familial ?
+- [ ] Marc Márquez
+- [ ] Jorge Lorenzo
+- [x] Valentino Rossi
+- [ ] Dani Pedrosa
 
-Q: Quel est l'âge de Pedro Acosta lorsqu'il débute en MotoGP en 2024 ?
-R: 19 ans
-Q: Pour quelle équipe Pedro Acosta court-il en 2025 ?
-R: GasGas Tech3
-Q: En quelle année Pedro Acosta a-t-il remporté le titre Moto2 ?
-R: 2023
-Q: De quelle région d'Espagne est originaire Pedro Acosta ?
-R: Murcie
-Q: Quel surnom a-t-on donné à Pedro Acosta en raison de sa précocité ?
-R: El Tiburón de Mazarrón (Le Requin de Mazarrón)
+**Question 2:** Quelle est la nationalité de Luca Marini ?
+- [x] Italienne
+- [ ] Espagnole
+- [ ] Française
+- [ ] Portugaise
 
-**Joan Mir**
+**Question 3:** Pour quelle équipe Luca Marini courait-il avant de rejoindre Honda HRC ?
+- [ ] Pramac Racing
+- [ ] Gresini Racing
+- [x] VR46 Racing Team
+- [ ] Aprilia Racing
 
-Q: En quelle année Joan Mir a-t-il remporté son titre de champion du monde MotoGP ?
-R: 2020
-Q: Pour quelle équipe Joan Mir court-il en 2025 ?
-R: Repsol Honda Team
-Q: De quelle île espagnole est originaire Joan Mir ?
-R: Majorque
-Q: Quel numéro Joan Mir porte-t-il sur sa moto ?
-R: 36
-Q: Dans quelle catégorie Joan Mir a-t-il remporté son premier titre mondial avant la MotoGP ?
-R: Moto3 (en 2017)
+**Question 4:** En quelle année Luca Marini a-t-il fait ses débuts en MotoGP ?
+- [ ] 2019
+- [ ] 2020
+- [x] 2021
+- [ ] 2022
 
-**Maverick Viñales**
+**Question 5:** Quel est le meilleur résultat en course obtenu par Luca Marini avant la saison 2025 ?
+- [ ] Victoire
+- [x] Podium
+- [ ] Top 5
+- [ ] Top 10
 
-Q: Quel animal figure souvent sur le casque de Maverick Viñales ?
-R: Un aigle
-Q: Pour quelle équipe Maverick Viñales court-il en 2025 ?
-R: Aprilia Racing
-Q: Quel est le prénom du fils de Maverick Viñales ?
-R: Mateo
-Q: De quelle ville catalane est originaire Maverick Viñales ?
-R: Figueres
-Q: Quel numéro Maverick Viñales porte-t-il sur sa moto ?
-R: 12
+## Maverick Viñales (#12, Red Bull KTM Tech3)
 
-**Franco Morbidelli**
+**Question 1:** Dans quelle catégorie Maverick Viñales a-t-il remporté son titre mondial ?
+- [x] 125cc/Moto3
+- [ ] 250cc/Moto2
+- [ ] 500cc
+- [ ] MotoGP
 
-Q: Quelle est la double nationalité de Franco Morbidelli ?
-R: Italienne et brésilienne
-Q: Pour quelle équipe Franco Morbidelli court-il en 2025 ?
-R: Prima Pramac Racing
-Q: En quelle année Franco Morbidelli a-t-il été vice-champion du monde MotoGP ?
-R: 2020
-Q: Qui a été le mentor de Franco Morbidelli pendant sa carrière ?
-R: Valentino Rossi
-Q: Quel numéro Franco Morbidelli porte-t-il sur sa moto ?
-R: 21
+**Question 2:** Avec quelle équipe Maverick Viñales a-t-il remporté sa première victoire en MotoGP ?
+- [ ] Ducati
+- [ ] KTM
+- [ ] Suzuki
+- [x] Yamaha
 
-**Álex Márquez**
+**Question 3:** Quel surnom est associé à Maverick Viñales ?
+- [ ] El Doctor
+- [ ] The Maniac
+- [x] Top Gun
+- [ ] El Diablo
 
-Q: Quel est le lien de parenté d'Álex Márquez avec Marc Márquez ?
-R: C'est son frère cadet
-Q: Pour quelle équipe Álex Márquez court-il en 2025 ?
-R: Gresini Racing MotoGP
-Q: En quelles catégories Álex Márquez a-t-il été champion du monde ?
-R: Moto3 (2014) et Moto2 (2019)
-Q: De quelle ville espagnole est originaire Álex Márquez ?
-R: Cervera
-Q: Quel numéro Álex Márquez porte-t-il sur sa moto ?
-R: 73
+**Question 4:** Avec quelle équipe Maverick Viñales courait-il avant de rejoindre Red Bull KTM Tech3 ?
+- [ ] Ducati
+- [ ] Suzuki
+- [x] Aprilia
+- [ ] Yamaha
 
-**Jack Miller**
+**Question 5:** Quelle particularité a marqué la carrière de Maverick Viñales en MotoGP ?
+- [ ] Il n'a jamais changé d'équipe
+- [x] Il a remporté des courses avec trois constructeurs différents
+- [ ] Il a toujours terminé dans le top 5 du championnat
+- [ ] Il n'a jamais chuté pendant une course
 
-Q: De quel pays est originaire Jack Miller ?
-R: Australie
-Q: Pour quelle équipe Jack Miller court-il en 2025 ?
-R: Pramac Racing
-Q: Quel est le surnom de Jack Miller ?
-R: Thriller
-Q: Dans quelle ville australienne Jack Miller a-t-il grandi ?
-R: Townsville
-Q: En quelle année Jack Miller est-il passé directement de la Moto3 à la MotoGP ?
-R: 2015
+## Fabio Quartararo (#20, Monster Energy Yamaha MotoGP Team)
 
-**Brad Binder**
+**Question 1:** En quelle année Fabio Quartararo a-t-il remporté son titre de champion du monde MotoGP ?
+- [ ] 2019
+- [ ] 2020
+- [x] 2021
+- [ ] 2022
 
-Q: De quel pays africain Brad Binder est-il originaire ?
-R: Afrique du Sud
-Q: Pour quelle équipe Brad Binder court-il en 2025 ?
-R: Red Bull KTM Factory Racing
-Q: Quel numéro Brad Binder porte-t-il sur sa moto ?
-R: 33
-Q: En quelle année Brad Binder a-t-il remporté sa première course en MotoGP ?
-R: 2020
-Q: Dans quelle catégorie Brad Binder a-t-il été champion du monde en 2016 ?
-R: Moto3
+**Question 2:** Quel surnom est donné à Fabio Quartararo ?
+- [ ] The Doctor
+- [ ] The Shark
+- [x] El Diablo
+- [ ] The Hammer
 
+**Question 3:** De quelle nationalité est Fabio Quartararo ?
+- [ ] Espagnole
+- [x] Française
+- [ ] Italienne
+- [ ] Portugaise
 
+**Question 4:** Dans quelle ville française Fabio Quartararo est-il né ?
+- [x] Nice
+- [ ] Paris
+- [ ] Marseille
+- [ ] Lyon
 
-**Miguel Oliveira**
+**Question 5:** Avec quelle équipe satellite Fabio Quartararo a-t-il débuté en MotoGP avant de rejoindre l'équipe d'usine ?
+- [ ] Tech3
+- [x] Petronas SRT
+- [ ] Pramac
+- [ ] LCR
 
-Q: De quel pays est originaire Miguel Oliveira ?
-R: Portugal
-Q: Pour quelle équipe Miguel Oliveira court-il en 2025 ?
-R: Trackhouse Racing
-Q: Quelle profession Miguel Oliveira a-t-il étudiée en parallèle de sa carrière ?
-R: Dentiste
-Q: Quelle est la particularité de la première victoire de Miguel Oliveira en MotoGP en 2020 ?
-R: Il a gagné sur le circuit de son pays natal (Portimão)
-Q: Quel numéro Miguel Oliveira porte-t-il sur sa moto ?
-R: 88
+## Franco Morbidelli (#21, Pertamina Enduro VR46 Racing Team)
 
-**Alex Rins**
+**Question 1:** Quelle est la double nationalité de Franco Morbidelli ?
+- [x] Italo-brésilienne
+- [ ] Franco-italienne
+- [ ] Italo-espagnole
+- [ ] Italo-suisse
 
-Q: Quelle grave blessure Alex Rins a-t-il subie en 2023 ?
-R: Une fracture du tibia et du péroné
-Q: Pour quelle équipe Alex Rins court-il en 2025 ?
-R: Monster Energy Yamaha MotoGP
-Q: En quelle année Alex Rins a-t-il remporté sa première victoire en MotoGP ?
-R: 2019
-Q: De quelle ville espagnole est originaire Alex Rins ?
-R: Barcelone
-Q: Quel numéro Alex Rins porte-t-il sur sa moto ?
-R: 42
+**Question 2:** Dans quelle catégorie Franco Morbidelli a-t-il remporté un titre mondial ?
+- [ ] 125cc
+- [x] Moto2
+- [ ] Moto3
+- [ ] Il n'a pas remporté de titre mondial
 
-**Marco Bezzecchi**
+**Question 3:** Quel lien Franco Morbidelli a-t-il avec l'académie VR46 avant de rejoindre l'équipe VR46 ?
+- [ ] Aucun lien
+- [ ] Il a été instructeur
+- [x] Il a été élève
+- [ ] Il en a été le directeur
 
-Q: Quel est le surnom de Marco Bezzecchi ?
-R: Bez
-Q: Pour quelle équipe Marco Bezzecchi court-il en 2025 ?
-R: VR46 Racing Team
-Q: Qui est le mentor de Marco Bezzecchi ?
-R: Valentino Rossi
-Q: De quelle ville italienne est originaire Marco Bezzecchi ?
-R: Rimini
-Q: Quel numéro Marco Bezzecchi porte-t-il sur sa moto ?
-R: 72
+**Question 4:** Avec quelle équipe Franco Morbidelli a-t-il obtenu ses premières victoires en MotoGP ?
+- [ ] Monster Energy Yamaha
+- [x] Petronas Yamaha SRT
+- [ ] Pramac Ducati
+- [ ] Marc VDS Honda
 
-**Raúl Fernández**
+**Question 5:** Quelle a été la meilleure position de Franco Morbidelli au championnat MotoGP ?
+- [ ] 1er
+- [x] 2e
+- [ ] 3e
+- [ ] 4e
 
-Q: De quel pays est originaire Raúl Fernández ?
-R: Espagne
-Q: Pour quelle équipe Raúl Fernández court-il en 2025 ?
-R: Trackhouse Racing
-Q: En quelle année Raúl Fernández a-t-il fait ses débuts en MotoGP ?
-R: 2022
-Q: Quelle position a-t-il obtenue au championnat Moto2 en 2021 ?
-R: Vice-champion (2e)
-Q: Quel numéro Raúl Fernández porte-t-il sur sa moto ?
-R: 25
+## Enea Bastianini (#23, Red Bull KTM Tech3)
 
+**Question 1:** Quel surnom est donné à Enea Bastianini ?
+- [ ] El Diablo
+- [ ] El Tiburón
+- [x] La Bestia
+- [ ] Il Dottore
 
-**Johann Zarco**
+**Question 2:** Dans quelle catégorie Enea Bastianini a-t-il remporté un titre mondial ?
+- [ ] 125cc
+- [ ] 250cc
+- [x] Moto2
+- [ ] Il n'a pas remporté de titre mondial
 
-Q: De quel pays est originaire Johann Zarco ?
-R: France
-Q: Pour quelle équipe Johann Zarco court-il en 2025 ?
-R: LCR Honda
-Q: Quelle célébration Johann Zarco fait-il après ses victoires ?
-R: Un backflip (salto arrière)
-Q: Dans quelle catégorie Johann Zarco a-t-il été champion du monde à deux reprises ?
-R: Moto2 (2015 et 2016)
-Q: Quel numéro Johann Zarco porte-t-il sur sa moto ?
-R: 5
+**Question 3:** Avec quelle équipe Enea Bastianini a-t-il remporté ses premières victoires en MotoGP ?
+- [ ] Ducati Factory Team
+- [x] Gresini Racing
+- [ ] Pramac Racing
+- [ ] VR46 Racing Team
 
-**Luca Marini**
+**Question 4:** De quelle ville italienne Enea Bastianini est-il originaire ?
+- [ ] Rome
+- [x] Rimini
+- [ ] Florence
+- [ ] Milan
 
-Q: Quel est le lien de parenté de Luca Marini avec Valentino Rossi ?
-R: C'est son demi-frère
-Q: Pour quelle équipe Luca Marini court-il en 2025 ?
-R: Repsol Honda Team
-Q: Dans quelle académie Luca Marini a-t-il été formé ?
-R: La VR46 Academy
-Q: De quelle ville italienne est originaire Luca Marini ?
-R: Urbino
-Q: Quel numéro Luca Marini porte-t-il sur sa moto ?
-R: 10
+**Question 5:** Quelle est la caractéristique du style de pilotage d'Enea Bastianini ?
+- [ ] Il est très agressif en début de course
+- [x] Il est particulièrement fort en fin de course
+- [ ] Il privilégie les dépassements à l'extérieur
+- [ ] Il est connu pour ses sauvetages spectaculaires
 
-**Fabio Di Giannantonio**
+## Raúl Fernández (#25, Trackhouse MotoGP Team)
 
-Q: Quel est le surnom de Fabio Di Giannantonio ?
-R: Diggia
-Q: Pour quelle équipe Fabio Di Giannantonio court-il en 2025 ?
-R: VR46 Racing Team
-Q: De quelle ville italienne est originaire Fabio Di Giannantonio ?
-R: Rome
-Q: En quelle année Fabio Di Giannantonio a-t-il remporté sa première victoire en MotoGP ?
-R: 2023
-Q: Quel numéro Fabio Di Giannantonio porte-t-il sur sa moto ?
-R: 49
+**Question 1:** De quelle nationalité est Raúl Fernández ?
+- [x] Espagnole
+- [ ] Portugaise
+- [ ] Argentine
+- [ ] Mexicaine
 
-**Somkiat Chantra**
+**Question 2:** Dans quelle catégorie Raúl Fernández a-t-il battu le record de victoires en une saison pour un rookie avant de monter en MotoGP ?
+- [ ] 125cc
+- [x] Moto2
+- [ ] Moto3
+- [ ] WorldSBK
 
-Q: De quel pays est originaire Somkiat Chantra ?
-R: Thaïlande
-Q: Pour quelle équipe Somkiat Chantra court-il en 2025 ?
-R: LCR Honda
-Q: En quelle année Somkiat Chantra a-t-il remporté sa première victoire en Moto2 ?
-R: 2022
-Q: Dans quelle ville thaïlandaise est né Somkiat Chantra ?
-R: Chonburi
-Q: Quel numéro Somkiat Chantra porte-t-il sur sa moto ?
-R: 35
+**Question 3:** Avec quelle équipe Raúl Fernández a-t-il fait ses débuts en MotoGP ?
+- [ ] KTM Factory Racing
+- [x] Tech3 KTM
+- [ ] Aprilia Racing
+- [ ] GasGas Tech3
 
-**Ai Ogura**
+**Question 4:** Avec quel pilote Raúl Fernández a-t-il eu une rivalité particulièrement intense lors de sa saison en Moto2 ?
+- [ ] Marco Bezzecchi
+- [x] Remy Gardner
+- [ ] Jorge Martín
+- [ ] Enea Bastianini
 
-Q: De quel pays est originaire Ai Ogura ?
-R: Japon
-Q: Pour quelle équipe Ai Ogura court-il en 2025 ?
-R: Team Asia Honda
-Q: En quelle année Ai Ogura a-t-il été vice-champion du monde en Moto2 ?
-R: 2022
-Q: Quel pilote japonais de renom a inspiré Ai Ogura durant sa jeunesse ?
-R: Daijiro Kato
-Q: Quel numéro Ai Ogura porte-t-il sur sa moto ?
-R: 79
+**Question 5:** Quelle équipe Raúl Fernández a-t-il rejoint pour la saison MotoGP 2025 ?
+- [ ] Aprilia Racing
+- [ ] RNF MotoGP Team
+- [x] Trackhouse MotoGP Team
+- [ ] Gresini Racing
 
-**Fermín Aldeguer**
+## Brad Binder (#33, Red Bull KTM Factory Racing)
 
-Q: De quel pays est originaire Fermín Aldeguer ?
-R: Espagne
-Q: Pour quelle équipe Fermín Aldeguer court-il en 2025 ?
-R: Gresini Racing MotoGP
-Q: Quel est l'âge de Fermín Aldeguer lors de ses débuts en MotoGP en 2025 ?
-R: 20 ans
-Q: Quelle particularité a eu Fermín Aldeguer en fin de saison Moto2 2023 ?
-R: Il a remporté quatre victoires consécutives
-Q: De quelle région d'Espagne est originaire Fermín Aldeguer ?
-R: Murcie
+**Question 1:** De quelle nationalité est Brad Binder ?
+- [ ] Australienne
+- [x] Sud-africaine
+- [ ] Britannique
+- [ ] Néerlandaise
+
+**Question 2:** Dans quelle catégorie Brad Binder a-t-il remporté son titre mondial ?
+- [ ] 125cc
+- [ ] Moto2
+- [x] Moto3
+- [ ] Il n'a pas remporté de titre mondial
+
+**Question 3:** En quelle année Brad Binder a-t-il remporté sa première victoire en MotoGP ?
+- [ ] 2019
+- [x] 2020
+- [ ] 2021
+- [ ] 2022
+
+**Question 4:** Quelle particularité a marqué la première victoire de Brad Binder en MotoGP ?
+- [ ] Il a gagné après être parti de la pole position
+- [ ] Il a dépassé le leader dans le dernier virage
+- [x] Il a gagné sur piste partiellement mouillée avec des pneus slicks
+- [ ] Il a gagné après être tombé et remonté sur sa moto
+
+**Question 5:** Quel surnom est parfois donné à Brad Binder ?
+- [x] BB33
+- [ ] The Bomber
+- [ ] The African Lion
+- [ ] The Hunter
+
+## Somkiat Chantra (#35, IDEMITSU Honda LCR)
+
+**Question 1:** De quelle nationalité est Somkiat Chantra ?
+- [ ] Malaisienne
+- [ ] Indonésienne
+- [x] Thaïlandaise
+- [ ] Vietnamienne
+
+**Question 2:** En quelle année Somkiat Chantra a-t-il remporté sa première victoire en Moto2 ?
+- [ ] 2020
+- [ ] 2021
+- [x] 2022
+- [ ] 2023
+
+**Question 3:** À quelle académie Somkiat Chantra appartient-il ?
+- [x] Honda Asia Talent Cup
+- [ ] VR46 Racing Academy
+- [ ] Red Bull Rookies Cup
+- [ ] Leopard Racing Academy
+
+**Question 4:** Quelle particularité a marqué la première victoire de Somkiat Chantra en Moto2 ?
+- [ ] Il a gagné sous la pluie
+- [ ] Il a gagné après être parti dernier
+- [x] Il a été le premier pilote thaïlandais à gagner en Grand Prix
+- [ ] Il a gagné avec plus de 10 secondes d'avance
+
+**Question 5:** Pour quelle équipe Somkiat Chantra courait-il en Moto2 avant de monter en MotoGP ?
+- [ ] Marc VDS
+- [x] IDEMITSU Honda Team Asia
+- [ ] Red Bull KTM Ajo
+- [ ] Intact GP
+
+## Joan Mir (#36, Honda HRC)
+
+**Question 1:** En quelle année Joan Mir a-t-il remporté son titre de champion du monde MotoGP ?
+- [ ] 2019
+- [x] 2020
+- [ ] 2021
+- [ ] 2022
+
+**Question 2:** Avec quelle équipe Joan Mir a-t-il remporté son titre MotoGP ?
+- [ ] Honda
+- [ ] Yamaha
+- [x] Suzuki
+- [ ] Ducati
+
+**Question 3:** Dans quelle autre catégorie Joan Mir a-t-il remporté un titre mondial ?
+- [ ] 125cc
+- [ ] Moto2
+- [x] Moto3
+- [ ] Superbike
+
+**Question 4:** De quelle région d'Espagne Joan Mir est-il originaire ?
+- [ ] Catalogne
+- [x] Îles Baléares (Majorque)
+- [ ] Andalousie
+- [ ] Pays basque
+
+**Question 5:** Quelle caractéristique définit le style de pilotage de Joan Mir ?
+- [ ] Des freinages très tardifs
+- [ ] Des accélérations très agressives
+- [x] Une grande constance et régularité
+- [ ] Des dépassements très risqués
+
+## Pedro Acosta (#37, Red Bull KTM Factory Racing)
+
+**Question 1:** Quel record Pedro Acosta a-t-il battu en Moto3 ?
+- [ ] Plus jeune vainqueur
+- [x] Plus rapide à remporter une course (2e Grand Prix)
+- [ ] Plus grand nombre de poles en une saison
+- [ ] Plus grand nombre de points en une saison
+
+**Question 2:** En quelle année Pedro Acosta a-t-il remporté le titre Moto3 ?
+- [ ] 2020
+- [x] 2021
+- [ ] 2022
+- [ ] 2023
+
+**Question 3:** Quel surnom est donné à Pedro Acosta ?
+- [ ] El Diablo
+- [ ] The Doctor
+- [x] El Tiburón de Mazarrón (Le Requin de Mazarrón)
+- [ ] The Martillo
+
+**Question 4:** De quelle région d'Espagne Pedro Acosta est-il originaire ?
+- [ ] Catalogne
+- [ ] Andalousie
+- [x] Murcie
+- [ ] Valence
+
+**Question 5:** En combien de saisons Pedro Acosta a-t-il réussi à passer de débutant en Moto3 à pilote MotoGP ?
+- [x] 3 saisons
+- [ ] 4 saisons
+- [ ] 5 saisons
+- [ ] 6 saisons
+
+## Álex Rins (#42, Monster Energy Yamaha MotoGP Team)
+
+**Question 1:** Dans quelles catégories Álex Rins a-t-il été vice-champion du monde ?
+- [ ] 125cc et MotoGP
+- [ ] Moto3 et MotoGP
+- [x] Moto3 et Moto2
+- [ ] Moto2 et MotoGP
+
+**Question 2:** Avec combien de constructeurs différents Álex Rins a-t-il remporté des courses en MotoGP ?
+- [ ] 1
+- [x] 2
+- [ ] 3
+- [ ] 4
+
+**Question 3:** Quelle victoire remarquable Álex Rins a-t-il obtenue en 2019 ?
+- [ ] GP de France
+- [x] GP de Grande-Bretagne (dépassement sur Márquez dans le dernier virage)
+- [ ] GP d'Australie
+- [ ] GP de Valence
+
+**Question 4:** Avec quelle équipe Álex Rins a-t-il fait ses débuts en MotoGP ?
+- [ ] Yamaha
+- [x] Suzuki
+- [ ] Honda
+- [ ] Ducati
+
+**Question 5:** Quelle est la spécialité d'Álex Rins en course ?
+- [ ] Les départs
+- [ ] Les qualifications
+- [x] La gestion des pneus
+- [ ] Les conditions mixtes
+
+## Jack Miller (#43, Prima Pramac Yamaha)
+
+**Question 1:** De quelle nationalité est Jack Miller ?
+- [ ] Britannique
+- [ ] Néo-zélandaise
+- [x] Australienne
+- [ ] Sud-africaine
+
+**Question 2:** Quel surnom est donné à Jack Miller ?
+- [x] Thriller
+- [ ] The Aussie
+- [ ] Jackass
+- [ ] Kangaroo
+
+**Question 3:** Quelle particularité a marqué l'accession de Jack Miller à la catégorie MotoGP ?
+- [x] Il est passé directement de la Moto3 à la MotoGP
+- [ ] Il a été champion du monde Moto2
+- [ ] Il a été le plus jeune pilote à débuter en MotoGP
+- [ ] Il a intégré directement une équipe d'usine
+
+**Question 4:** En quelle année Jack Miller a-t-il remporté sa première victoire en MotoGP ?
+- [ ] 2015
+- [x] 2016
+- [ ] 2017
+- [ ] 2018
+
+**Question 5:** Avec quels constructeurs Jack Miller a-t-il couru en MotoGP avant de rejoindre Yamaha ?
+- [ ] Honda et Aprilia
+- [ ] Honda et Suzuki
+- [x] Honda, Ducati et KTM
+- [ ] Ducati et KTM
+
+## Fabio Di Giannantonio (#49, Pertamina Enduro VR46 Racing Team)
+
+**Question 1:** De quelle ville italienne Fabio Di Giannantonio est-il originaire ?
+- [x] Rome
+- [ ] Milan
+- [ ] Florence
+- [ ] Naples
+
+**Question 2:** En quelle année Fabio Di Giannantonio a-t-il remporté sa première victoire en MotoGP ?
+- [ ] 2021
+- [ ] 2022
+- [x] 2023
+- [ ] 2024
+
+**Question 3:** Dans quelle catégorie Fabio Di Giannantonio a-t-il obtenu son premier podium en Grand Prix ?
+- [ ] 125cc
+- [ ] Moto2
+- [x] Moto3
+- [ ] MotoGP
+
+**Question 4:** Quel surnom est souvent utilisé pour désigner Fabio Di Giannantonio ?
+- [ ] Fabi
+- [x] Diggia
+- [ ] Il Romano
+- [ ] FDG
+
+**Question 5:** Pour quelle équipe Fabio Di Giannantonio courait-il avant de rejoindre VR46 Racing Team ?
+- [ ] Pramac Racing
+- [x] Gresini Racing
+- [ ] LCR Honda
+- [ ] RNF Racing
+
+## Fermín Aldeguer (#54, Gresini Racing MotoGP)
+
+**Question 1:** De quelle nationalité est Fermín Aldeguer ?
+- [x] Espagnole
+- [ ] Italienne
+- [ ] Portugaise
+- [ ] Argentine
+
+**Question 2:** En quelle année Fermín Aldeguer est-il né, faisant de lui l'un des plus jeunes pilotes du plateau MotoGP 2025 ?
+- [ ] 2002
+- [ ] 2003
+- [x] 2005
+- [ ] 2006
+
+**Question 3:** Dans quelle catégorie Fermín Aldeguer courait-il avant d'accéder à la MotoGP ?
+- [ ] Moto3
+- [x] Moto2
+- [ ] Superbike
+- [ ] MotoE
+
+**Question 4:** Quelle performance remarquable Fermín Aldeguer a-t-il réalisée en fin de saison Moto2 2023 ?
+- [ ] Un podium à sa première course
+- [ ] Une pole position sous la pluie
+- [x] Une série de victoires consécutives
+- [ ] Un record du tour sur chaque circuit
+
+**Question 5:** Pour quelle équipe Fermín Aldeguer courait-il en Moto2 avant de monter en MotoGP ?
+- [ ] Red Bull KTM Ajo
+- [x] Boscoscuro Speed Up
+- [ ] Marc VDS
+- [ ] American Racing
+
+## Francesco Bagnaia (#63, Ducati Lenovo Team)
+
+**Question 1:** Combien de titres mondiaux MotoGP Francesco Bagnaia a-t-il remportés avant la saison 2025 ?
+- [ ] 1
+- [x] 2
+- [ ] 3
+- [ ] 4
+
+**Question 2:** Dans quelle autre catégorie Francesco Bagnaia a-t-il remporté un titre mondial ?
+- [ ] 125cc
+- [x] Moto2
+- [ ] Moto3
+- [ ] Il n'a pas d'autre titre mondial
+
+**Question 3:** Quel surnom est donné à Francesco Bagnaia ?
+- [x] Pecco
+- [ ] Il Dottore
+- [ ] La Bestia
+- [ ] El Martillo
+
+**Question 4:** De quelle ville italienne Francesco Bagnaia est-il originaire ?
+- [x] Turin
+- [ ] Rome
+- [ ] Milan
+- [ ] Bologne
+
+**Question 5:** À quelle académie de formation Francesco Bagnaia a-t-il appartenu ?
+- [ ] Honda Racing Academy
+- [x] VR46 Riders Academy
+- [ ] Red Bull Rookies Cup
+- [ ] Ducati Riders Academy
+
+## Marco Bezzecchi (#72, Aprilia Racing)
+
+**Question 1:** Quel surnom est donné à Marco Bezzecchi ?
+- [ ] Il Dottore
+- [ ] Il Lupo
+- [x] Bez
+- [ ] Il Professore
+
+**Question 2:** Pour quelle équipe Marco Bezzecchi courait-il avant de rejoindre Aprilia Racing ?
+- [ ] Pramac Racing
+- [x] VR46 Racing Team
+- [ ] Gresini Racing
+- [ ] LCR Honda
+
+**Question 3:** En quelle année Marco Bezzecchi a-t-il remporté sa première victoire en MotoGP ?
+- [ ] 2021
+- [ ] 2022
+- [x] 2023
+- [ ] 2024
+
+**Question 4:** Dans quelle catégorie Marco Bezzecchi a-t-il terminé vice-champion du monde ?
+- [ ] 125cc
+- [ ] Moto3
+- [x] Moto2
+- [ ] MotoGP
+
+**Question 5:** De quelle région italienne Marco Bezzecchi est-il originaire ?
+- [ ] Toscane
+- [x] Émilie-Romagne
+- [ ] Vénétie
+- [ ] Lombardie
+
+## Álex Márquez (#73, Gresini Racing MotoGP)
+
+**Question 1:** Dans quelles catégories Álex Márquez a-t-il remporté des titres mondiaux ?
+- [ ] 125cc et Moto2
+- [ ] Moto3 et MotoGP
+- [x] Moto3 et Moto2
+- [ ] Moto2 uniquement
+
+**Question 2:** Avec quel pilote MotoGP Álex Márquez a-t-il un lien familial ?
+- [x] Marc Márquez
+- [ ] Jorge Martín
+- [ ] Jorge Lorenzo
+- [ ] Joan Mir
+
+**Question 3:** Pour quelle équipe Álex Márquez a-t-il fait ses débuts en MotoGP ?
+- [ ] Gresini Racing
+- [x] Repsol Honda
+- [ ] LCR Honda
+- [ ] Marc VDS Racing
+
+**Question 4:** En quelle année Álex Márquez a-t-il obtenu ses premiers podiums en MotoGP ?
+- [ ] 2019
+- [x] 2020
+- [ ] 2021
+- [ ] 2022
+
+**Question 5:** Quelle particularité a marqué l'arrivée d'Álex Márquez en MotoGP ?
+- [ ] Il a signé directement avec une équipe d'usine
+- [ ] Il a obtenu un podium dès sa première course
+- [x] Il a rejoint son frère dans la même équipe
+- [ ] Il a sauté la catégorie Moto2
+
+## Ai Ogura (#79, Trackhouse MotoGP Team)
+
+**Question 1:** De quelle nationalité est Ai Ogura ?
+- [ ] Chinoise
+- [ ] Thaïlandaise
+- [x] Japonaise
+- [ ] Sud-coréenne
+
+**Question 2:** Dans quelle catégorie Ai Ogura a-t-il terminé vice-champion du monde ?
+- [ ] Moto3
+- [x] Moto2
+- [ ] MotoGP
+- [ ] Il n'a jamais été vice-champion du monde
+
+**Question 3:** Pour quelle équipe Ai Ogura courait-il en Moto2 avant de monter en MotoGP ?
+- [ ] Red Bull KTM Ajo
+- [x] IDEMITSU Honda Team Asia
+- [ ] Marc VDS
+- [ ] Intact GP
+
+**Question 4:** Quelle particularité a marqué la carrière d'Ai Ogura avant son arrivée en MotoGP ?
+- [ ] Il a remporté le championnat japonais à 16 ans
+- [x] Il a été le premier Japonais depuis longtemps à se battre pour un titre mondial
+- [ ] Il a remporté toutes les courses sur sol japonais
+- [ ] Il a battu le record de points en une saison
+
+**Question 5:** Avec quelle équipe Ai Ogura fait-il ses débuts en MotoGP en 2025 ?
+- [ ] Repsol Honda
+- [ ] LCR Honda
+- [x] Trackhouse MotoGP Team
+- [ ] RNF MotoGP Team
+
+## Miguel Oliveira (#88, Prima Pramac Yamaha)
+
+**Question 1:** De quelle nationalité est Miguel Oliveira ?
+- [ ] Espagnole
+- [x] Portugaise
+- [ ] Brésilienne
+- [ ] Argentine
+
+**Question 2:** Quelle profession Miguel Oliveira exerce-t-il parallèlement à sa carrière de pilote ?
+- [ ] Ingénieur
+- [ ] Musicien
+- [x] Étudiant en dentisterie
+- [ ] Entrepreneur
+
+**Question 3:** Pour quelle équipe Miguel Oliveira a-t-il remporté sa première victoire en MotoGP ?
+- [ ] Pramac Racing
+- [ ] RNF Racing
+- [ ] Factory KTM
+- [x] Tech3 KTM
+
+**Question 4:** Quelle particularité a marqué la première victoire de Miguel Oliveira en MotoGP ?
+- [ ] Il a gagné sous la pluie
+- [x] Il a gagné son Grand Prix national
+- [ ] Il a gagné après être parti de la dernière position
+- [ ] Il a gagné après un duel avec Márquez
+
+**Question 5:** Combien de constructeurs différents Miguel Oliveira a-t-il représentés en MotoGP avant 2025 ?
+- [ ] 1
+- [ ] 2
+- [x] 3
+- [ ] 4
+
+## Jorge Martín (#89, Aprilia Racing)
+
+**Question 1:** Dans quelle catégorie Jorge Martín a-t-il remporté un titre mondial ?
+- [ ] 125cc
+- [ ] Moto2
+- [x] Moto3
+- [ ] MotoGP
+
+**Question 2:** Quel surnom est donné à Jorge Martín ?
+- [x] Martinator
+- [ ] El Diablo
+- [ ] La Bestia
+- [ ] The Doctor
+
+**Question 3:** Quelle particularité caractérise le style de Jorge Martín ?
+- [ ] Sa capacité à économiser les pneus
+- [x] Sa force en qualifications et départs
+- [ ] Ses dépassements agressifs
+- [ ] Sa vitesse en virage
+
+**Question 4:** En quelle année Jorge Martín a-t-il remporté sa première victoire en MotoGP ?
+- [ ] 2019
+- [ ] 2020
+- [x] 2021
+- [ ] 2022
+
+**Question 5:** Pour quelle équipe Jorge Martín courait-il avant de rejoindre Aprilia Racing ?
+- [ ] Factory Ducati
+- [x] Pramac Racing
+- [ ] VR46 Racing
+- [ ] Gresini Racing
+
+## Marc Márquez (#93, Ducati Lenovo Team)
+
+**Question 1:** Combien de titres mondiaux Marc Márquez a-t-il remportés en MotoGP ?
+- [ ] 5
+- [x] 6
+- [ ] 7
+- [ ] 8
+
+**Question 2:** Combien de titres mondiaux Marc Márquez a-t-il remportés toutes catégories confondues ?
+- [ ] 6
+- [ ] 7
+- [x] 8
+- [ ] 9
+
+**Question 3:** En quelle année Marc Márquez a-t-il remporté son premier titre MotoGP ?
+- [ ] 2012
+- [ ] 2013
+- [ ] 2014
+- [ ] 2015
+
+**Question 4:** Quel record Marc Márquez a-t-il établi lors de sa saison MotoGP 2014 ?
+- [ ] Plus grand nombre de points en une saison
+- [ ] Plus grand nombre de victoires consécutives en début de saison
+- [ ] Plus jeune champion du monde MotoGP
+- [ ] Plus grand nombre de poles en une saison
+
+**Question 5:** Avec quelle équipe Marc Márquez a-t-il couru en MotoGP avant de rejoindre Ducati ?
+- [ ] Honda Repsol
+- [ ] Yamaha Factory
+- [ ] Suzuki Ecstar
+- [ ] KTM Factory Racing
