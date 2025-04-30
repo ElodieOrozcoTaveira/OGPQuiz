@@ -1,0 +1,11 @@
+.l-main-nav{
+    position: absolute;
+    top: 20px;
+    //équivalent width
+    inline-size: 100%;
+        &__container{
+            //centrer le contenu
+            display: flex;
+            align-items: center;
+    }
+}
