@@ -1,0 +1,99 @@
+.l-main-nav{
+    position: absolute;
+    top: 20px;
+    width: 100%;
+
+    &__container {
+        //centrer le contenu
+        display: flex;
+        align-items: center;
+    }
+    &__logo{
+        font-size: 60px;
+        text-shadow: 3px 3px 5px red;
+        font-family: 'Racing Sans One';
+        color: white;
+        text-decoration: none;
+        margin-left: 50px;
+    }
+    &__toggle-button{
+        display: none;
+        
+    }
+    &__list{
+        flex-shrink: 0;//pour ne pas que les élement rétrécissent lors de la réduction du device
+        list-style-type: none;
+        display: flex;
+    }
+    &__logo,
+    &__link {
+        width: 100%;
+        inline-size: 100%;
+    }
+    &__link{
+        color: white;
+        text-decoration: none;
+        font-size: 30px;
+        font-family: 'Racing Sans One';
+        margin-right: 70px;
+        text-shadow: 3px 4px 4px red;
+
+    }
+    
+}
+
+@media (max-width:1130px){
+    .l-main-nav__link{
+        margin-inline:8px;
+    }
+}
+
+@media(max-width:920px){
+    .l-main-nav{
+        top: 0;
+        padding-block: 14px;//en haut et en bas
+    &--active{
+        background-color: black;
+        border-block-end: 1px solid rgba(black, 0.6);
+    }
+    &--active &__list,
+    &--active &__link{
+        display: flex;
+    }
+
+     &__container{
+        flex-wrap: wrap;//passe à la ligne lorsque cela réduit
+     }
+     &__logo{
+        inline-size: auto;
+        margin-inline-end: auto;
+        font-size: 30px;
+     }
+     &__toggle-button{
+        display: inline-block;
+        background-color: red;
+        border: none;
+        cursor: pointer;
+     }
+     &__toggle-logo{
+        inline-size: 30px;
+        
+     }
+     &__list{
+        flex-direction: column;
+        inline-size: 100%;
+        margin-block: 20px;
+     }
+     &__link{
+        display: inline-block;
+        padding-block: 16px;
+        font-size: 20px;
+        margin-inline: 0;
+     }
+     &__list,
+     &__link{
+
+     }
+     
+    }
+}
