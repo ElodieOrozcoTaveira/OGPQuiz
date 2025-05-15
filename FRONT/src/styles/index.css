@@ -144,20 +144,6 @@
   border: 5px solid rgb(13, 0, 255);
   width: 33.3%;
 }
-.container-article__p {
-  text-align: center;
-  font-family: "Racing Sans One";
-  font-weight: bold;
-  font-size: 40px;
-  background-color: red;
-  border: 2px solid yellow;
-  margin-bottom: 20px;
-}
-
-img {
-  height: 500px;
-  width: 450px;
-}
 
 .u-container {
   min-inline-size: 1100px;
@@ -236,8 +222,7 @@ body {
   top: 0;
   inline-size: 50%;
   block-size: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 .home-header__container {
   display: flex;
@@ -255,4 +240,6 @@ body {
   min-inline-size: 236px;
   align-self: flex-start;
   margin-block-start: auto;
-}/*# sourceMappingURL=index.css.map */
+}
+
+/*# sourceMappingURL=index.css.map */

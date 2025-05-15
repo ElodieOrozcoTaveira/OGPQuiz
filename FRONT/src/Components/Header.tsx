@@ -28,7 +28,7 @@ export default function Header() {
       className="home-header__flag" width="947" height="674"/>
     <div className="u_container home-header__container">
      <h1 className="u-main-title home-header__title">Tu penses connaître le MotoGp?</h1>
-      <a href="#" className="c-red-link home-header__cta"> Choisis ton Quiz   🏍️</a>
+      <a href="#" className="c-red-link home-header__cta"> Choisis ton Quiz ↘️ </a>
   </div>
      
 

@@ -1,12 +1,24 @@
 @use "../layouts/navbar"; 
+@use "../layouts/footer";
+@use "../layouts/content";
 @use "../utils/classes";
 @use "../reset";
 @use "../components/mixins";
 @use "../components/links";
 
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: whitesmoke;
+}
+
+
 #root{
     max-width: auto;
 }
+
+
 
 .home-header{
     background-color: black;
