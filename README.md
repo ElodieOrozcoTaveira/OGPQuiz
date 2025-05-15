@@ -5,7 +5,7 @@
 *Objectif => Essayer de faire un Quizz Moto sur les pilotes et teams.*
 
 OMotos va me permettre de revoir tout ce que j'ai pu apprendre depuis le début de ma formation (06/01).
-Au lieu de refaire le projet de formation Ocoffee, je me réentraine avec un projet OMotos qui va me permettre
+Au lieu de refaire le projet de formation Ocoffee, je me réentraine avec un projet O'GPQuiz qui va me permettre
 pratiquer : 
 
 -HTML ✍️
@@ -15,6 +15,8 @@ pratiquer :
 -Node JS 💻
 -BDD 
 -et ce qu'oublie..
+
+--Du coup vu que je me remets dessus quelques temps après sa création, je fais ça avec React 😎 (je sais pas ce que ca va donner )
 
 Tout ce que j'ai pu apprendre afin de travailler le Front-End et le Back End.
 
