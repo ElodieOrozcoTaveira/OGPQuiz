@@ -1,0 +1,269 @@
+.l-main-nav {
+  position: absolute;
+  top: 20px;
+  width: 100%;
+}
+.l-main-nav__container {
+  display: flex;
+  align-items: center;
+}
+.l-main-nav__logo {
+  font-size: 60px;
+  text-shadow: 3px 3px 5px red;
+  font-family: "Racing Sans One";
+  color: white;
+  text-decoration: none;
+  margin-left: 50px;
+}
+.l-main-nav__toggle-button {
+  display: none;
+}
+.l-main-nav__list {
+  flex-shrink: 0;
+  list-style-type: none;
+  display: flex;
+}
+.l-main-nav__logo, .l-main-nav__link {
+  width: 100%;
+  inline-size: 100%;
+}
+.l-main-nav__link {
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: "Racing Sans One";
+  margin-right: 70px;
+  text-shadow: 3px 4px 4px red;
+}
+
+@media (max-width: 1130px) {
+  .l-main-nav__link {
+    margin-inline: 8px;
+  }
+}
+@media (max-width: 920px) {
+  .l-main-nav {
+    top: 0;
+    padding-block: 14px;
+  }
+  .l-main-nav--active {
+    background-color: black;
+    border-block-end: 1px solid rgba(0, 0, 0, 0.6);
+  }
+  .l-main-nav--active .l-main-nav__list, .l-main-nav--active .l-main-nav__link {
+    display: flex;
+  }
+  .l-main-nav__container {
+    flex-wrap: wrap;
+  }
+  .l-main-nav__logo {
+    inline-size: auto;
+    margin-inline-end: auto;
+    font-size: 30px;
+  }
+  .l-main-nav__toggle-button {
+    display: inline-block;
+    background-color: red;
+    border: none;
+    cursor: pointer;
+  }
+  .l-main-nav__toggle-logo {
+    inline-size: 30px;
+  }
+  .l-main-nav__list {
+    flex-direction: column;
+    inline-size: 100%;
+    margin-block: 20px;
+  }
+  .l-main-nav__link {
+    display: inline-block;
+    padding-block: 16px;
+    font-size: 20px;
+    margin-inline: 0;
+  }
+}
+.footer-container {
+  background-color: black;
+  height: 125px;
+  position: relative;
+  max-width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-container__title {
+  background-color: black;
+  color: whitesmoke;
+  font-family: "Racing Sans One";
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 50px 50px;
+  flex-grow: 1;
+  justify-content: center;
+  top: 10px;
+  margin-top: 20px;
+}
+
+.section-container {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  border: 4px solid black;
+  border-radius: 30px;
+  box-shadow: 3px 3px 4px red;
+  padding: 30px 30px 30px 30px;
+  font-family: "Racing Sans One";
+  text-align: center;
+  line-height: 2;
+}
+.section-container__welcome {
+  font-size: 45px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+.section-container__paragraph, .section-container__sub-paragraph {
+  font-size: 30px;
+}
+
+.container-quizCategories {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: center;
+  align-items: stretch;
+  max-width: auto;
+}
+
+.container-article {
+  margin-top: 30px;
+  width: 33.3%;
+}
+.container-article__p {
+  text-align: center;
+  font-family: "Racing Sans One";
+  font-weight: bold;
+  font-size: 40px;
+  background-color: red;
+  border: 2px solid yellow;
+  margin-bottom: 20px;
+}
+.container-article__button {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  list-style: none;
+  font-family: "Racing Sans One";
+  font-size: 30px;
+  border: 2px solid red;
+  border-radius: 10px;
+}
+.container-article__link {
+  text-decoration: none;
+}
+
+img {
+  height: 500px;
+  width: 450px;
+}
+
+.u-container {
+  min-inline-size: 1100px;
+  padding-inline: 20px;
+  margin-inline: auto;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1130px) {
+  .u-container {
+    max-inline-size: 850px;
+  }
+}
+*, ::before, ::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  height: auto;
+}
+
+.c-red-link {
+  font-size: 30px;
+  color: whitesmoke;
+  background-color: rgb(240, 10, 10);
+  font-family: "Racing Sans One";
+  padding-inline: 9px;
+  padding-block: 9px;
+  line-height: 133.33%;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: whitesmoke;
+}
+
+#root {
+  max-width: auto;
+}
+
+.home-header {
+  background-color: black;
+  height: 550px;
+  position: relative;
+  max-width: auto;
+  z-index: 1;
+  overflow: hidden;
+  padding-block-start: 202px;
+}
+.home-header__faded-bg {
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  top: 0;
+  inline-size: 50%;
+  block-size: 100%;
+  background-color: black;
+  box-shadow: 0 0 100px 200px black;
+}
+.home-header__flag {
+  position: absolute;
+  z-index: -2;
+  right: 0;
+  top: 0;
+  inline-size: 50%;
+  block-size: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.home-header__container {
+  display: flex;
+  flex-direction: column;
+  block-size: 100%;
+}
+.home-header__title {
+  font-size: 40px;
+  color: whitesmoke;
+  margin-block-end: 24px;
+  font-family: "Racing Sans One";
+  margin-bottom: 7rem;
+}
+.home-header__cta {
+  min-inline-size: 236px;
+  align-self: flex-start;
+  margin-block-start: auto;
+}/*# sourceMappingURL=index.css.map */

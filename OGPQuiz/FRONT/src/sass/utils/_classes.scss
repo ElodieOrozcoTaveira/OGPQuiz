@@ -1,0 +1,12 @@
+.u-container{
+    min-inline-size: 1100px;
+    padding-inline: 20px;
+    margin-inline: auto;
+    box-sizing: border-box;
+}
+
+@media (max-width:1130px){
+    .u-container{
+       max-inline-size: 850px; 
+    }
+}
