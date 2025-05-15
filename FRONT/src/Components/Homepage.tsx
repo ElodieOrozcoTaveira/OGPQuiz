@@ -36,7 +36,8 @@ export default function Content(){
                                 {category.image && <img src={category.image} alt={category.title} />}
                             </div>
                             <div className="container-article__button">
-                                <button>Commencez le quiz 🏍️ </button>
+                                <li><a href="/index.html" className="container-article__link">Commencez le quiz 🏍️</a></li>
+                                
                             </div>
                         </article>
                     ))}
