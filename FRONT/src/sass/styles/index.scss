@@ -1,0 +1,71 @@
+@use "../layouts/navbar"; 
+@use "../layouts/footer";
+@use "../layouts/content";
+@use "../utils/classes";
+@use "../reset";
+@use "../components/mixins";
+@use "../components/links";
+
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: whitesmoke;
+}
+
+
+#root{
+    max-width: auto;
+}
+
+
+
+.home-header{
+    background-color: black;
+    height: 550px;
+    position:relative;
+    max-width: auto;
+    z-index: 1;
+    overflow: hidden;
+    padding-block-start: 202px;//permet de faire descendre le title
+    &__faded-bg{
+        position: absolute;
+        z-index: -1; 
+        left: 0;
+        top: 0;
+        inline-size: 50%;
+        block-size: 100%;
+        background-color: black;
+        box-shadow:0 0 100px 200px black;
+
+    }
+    &__flag{
+        position: absolute;
+        z-index: -2;
+        right: 0;
+        top: 0;
+        inline-size: 50%;
+        block-size: 100%;
+        object-fit: cover;
+    }
+    &__container{
+        display: flex;
+        flex-direction: column;
+        block-size: 100%;
+    }
+    &__title{
+        font-size: 40px;
+        color: whitesmoke;
+        margin-block-end: 24px;
+        font-family: 'Racing Sans One';
+        margin-bottom: 7rem;
+    }
+    &__cta{
+        min-inline-size: 236px;
+        align-self: flex-start;
+        margin-block-start: auto;
+    
+    }
+    
+} 
+
