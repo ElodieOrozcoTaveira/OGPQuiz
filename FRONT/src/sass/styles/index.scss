@@ -10,7 +10,7 @@ body{
     display: flex;
     flex-direction: column;
     height: 100%;
-    background-color: whitesmoke;
+    background-color: rgb(247, 240, 240);
 }
 
 
@@ -21,6 +21,7 @@ body{
 
 
 .home-header{
+    border-bottom: 4px solid rgb(190, 27, 27);
     background-color: black;
     height: 550px;
     position:relative;

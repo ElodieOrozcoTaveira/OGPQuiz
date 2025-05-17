@@ -12,9 +12,9 @@ interface QuizCategory {
 export default function Content(){
 
         const quizCategories: QuizCategory[] = [
-            {id:1, title: 'Pilotes', description:'Choisis ton quiz pilote', image: '/integration/images/Pilotes/martin.webp'},
-            {id:2, title: 'Teams', description:'Choisis ton quiz team',image: '/integration/images/Teams/101.webp'},
-            {id:3, title: 'Circuits', description:'Choisis ton quiz circuit', image: '/integration/images/Circuits/jerez.jpg'}
+            {id:1, title: 'Pilotes', description:'Choisis ton quiz pilote', image: '/integration/images/Pilotes/marquezm.webp'},
+            {id:2, title: 'Teams', description:'Choisis ton quiz team',image: '/integration/images/Teams/103.webp'},
+            {id:3, title: 'Circuits', description:'Choisis ton quiz circuit', image: '/integration/images/Circuits/germany.svg'}
 
         ]
 
