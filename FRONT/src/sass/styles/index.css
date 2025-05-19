@@ -98,35 +98,48 @@
   font-family: "Racing Sans One";
 }
 
+@media (max-width: 770px) {
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .footer-container__title {
+    text-align: center;
+  }
+}
 .content-container {
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
   padding: 50px 50px;
   flex-grow: 1;
   justify-content: center;
   top: 10px;
   margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .section-container {
-  margin-bottom: 50px;
+  margin-bottom: 3vw;
   border: 4px solid black;
   border-radius: 30px;
   box-shadow: 4px 4px 4px 4px rgb(190, 27, 27);
-  padding: 30px 30px 30px 30px;
+  padding: 3vw 5vw;
   font-family: "Racing Sans One";
   text-align: center;
   line-height: 2;
 }
 .section-container__welcome {
-  font-size: 45px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
+  font-size: 3rem;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-bottom: 1vw;
 }
 .section-container__paragraph, .section-container__sub-paragraph {
-  font-size: 30px;
+  font-size: 1.5rem;
 }
 
 .container-quizCategories {
@@ -160,7 +173,7 @@
 }
 .container-article__button {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 20px;
   list-style: none;
   font-family: "Racing Sans One";
@@ -168,12 +181,13 @@
   border: 2px solid rgb(190, 27, 27);
   box-shadow: 3px 3px 4px rgb(190, 27, 27);
   border-radius: 10px;
-  width: 70%;
 }
 .container-article__link {
   text-decoration: none;
   color: black;
+  text-shadow: 5px 5px 10px rgb(190, 27, 27);
   text-align: center;
+  font-size: 30px;
 }
 .container-article img {
   display: block;
@@ -192,6 +206,28 @@
      object-position: 50% 10%;
 }
 
+@media (max-width: 900px) {
+  .content-container {
+    flex-wrap: wrap;
+  }
+  .container-quizCategories {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .container-article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  img {
+    margin-left: 0;
+    margin-right: 0;
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
 .u-container {
   min-inline-size: 1100px;
   padding-inline: 20px;

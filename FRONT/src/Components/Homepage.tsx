@@ -18,6 +18,10 @@ export default function Content(){
 
         ]
 
+        function handleCLick(){
+            alert('Vous avez cliqué');
+        }
+
     return (
         <div className="content-container">
             <section className="section-container">
@@ -36,7 +40,7 @@ export default function Content(){
                                 {category.image && <img src={category.image} alt={category.title} />}
                             </div>
                             <div className="container-article__button">
-                                <li><a href="/index.html" className="container-article__link">Commencez le quiz 🏍️</a></li>
+                                <li><a onClick={handleCLick} href="/index.html" className="container-article__link">Commencer le quiz 🏍️</a></li>
                                 
                             </div>
                         </article>
