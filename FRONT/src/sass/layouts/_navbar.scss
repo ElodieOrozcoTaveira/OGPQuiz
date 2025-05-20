@@ -24,6 +24,9 @@
         flex-shrink: 0;//pour ne pas que les élement rétrécissent lors de la réduction du device
         list-style-type: none;
         display: flex;
+        gap: 50px;
+        
+        
     }
     &__logo,
     &__link {
@@ -42,7 +45,7 @@
     
 }
 
-@media (max-width:1130px){
+@media (max-width:1300px){
     .l-main-nav__link{
         margin-inline:8px;
     }

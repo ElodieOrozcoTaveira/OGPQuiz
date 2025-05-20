@@ -1,3 +1,5 @@
+import Footer from "../Footer";
+import Header from "../Header";
 
 
 interface QuizCategory {
@@ -23,6 +25,9 @@ export default function Content(){
         }
 
     return (
+    
+        
+
         <div className="content-container">
             <section className="section-container">
                 <h2 className="section-container__welcome">Bienvenue sur cette page dédiée à l'univers MotoGP 2025.</h2>
@@ -47,5 +52,7 @@ export default function Content(){
                     ))}
                 </section>
         </div>
+        
+
     );
 }

@@ -22,6 +22,7 @@
   flex-shrink: 0;
   list-style-type: none;
   display: flex;
+  gap: 50px;
 }
 .l-main-nav__logo, .l-main-nav__link {
   width: 100%;
@@ -36,7 +37,7 @@
   text-shadow: 3px 4px 4px rgb(190, 27, 27);
 }
 
-@media (max-width: 1130px) {
+@media (max-width: 1300px) {
   .l-main-nav__link {
     margin-inline: 8px;
   }

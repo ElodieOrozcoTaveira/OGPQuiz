@@ -1,5 +1,20 @@
+import { Link } from 'react-router-dom';
+
+interface NavItem {
+  text: string;
+  path: string;
+}
 
 export default function Header() {
+
+const navItems: NavItem [] = [
+  {text :'Accueil', path:"/"},
+  {text:'Connexion', path:"/connexion"},
+  {text:'Inscription', path:"/inscription"},
+
+
+]
+
     return(
 
       <header className="home-header">
@@ -16,10 +31,12 @@ export default function Header() {
             />
           </button>
           <ul className="l-main-nav__list">
-            <li><a className="l-main-nav__link" href="#">Connexion</a></li>
-            <li><a className="l-main-nav__link" href="#">Inscription</a></li>
+           {navItems.map((item, index)=> (
+            <Link className="l-main-nav__link" key={index} to={item.path}>{item.text}</Link>           
+           ))}
+
           </ul> 
-          </div>        
+          </div>       
       </nav>
       <div className="home-header__faded-bg"></div>
     <img
