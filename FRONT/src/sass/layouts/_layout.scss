@@ -1,0 +1,6 @@
+.layout-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Très important: utilise 100% de la hauteur de la fenêtre */
+  flex: 1 0 auto;
+}

@@ -5,12 +5,15 @@
 @use "../reset";
 @use "../components/mixins";
 @use "../components/links";
+@use "../layouts/errorPage";
+@use "../layouts/inscription";
+@use "../layouts/layout";
 
 body{
     display: flex;
     flex-direction: column;
     height: 100%;
-    background-color: rgb(247, 240, 240);
+    background-color: whitesmoke;
 }
 
 

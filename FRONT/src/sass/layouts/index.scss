@@ -1,3 +1,15 @@
+@use "../layouts/navbar"; 
+@use "../layouts/footer";
+@use "../layouts/homepage";
+@use "../utils/classes";
+@use "../reset";
+@use "../components/mixins";
+@use "../components/links";
+@use "../layouts/errorPage";
+@use "../layouts/inscription";
+@use "../layouts/layout";
+
+
 *, ::before, ::after {
   margin: 0;
   padding: 0;
@@ -25,12 +37,27 @@ img {
   text-align: center;
   display: inline-block;
 }
+html, body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
 
-body {
+.main-container {
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
+  flex: 1; //prend tout l'espace de disponible
+}
+
+.content-container {
+  flex: 1; //fait en sorte que le contenur pousse le fotter vers le bas 
+}
+
+body {
   height: 100%;
   background-color: whitesmoke;
+  overflow-x: hidden;
 }
 
 #root {
@@ -69,18 +96,21 @@ body {
   display: flex;
   flex-direction: column;
   block-size: 100%;
+  padding-left: 50px;
 }
 .home-header__title {
-  font-size: 40px;
+  font-size: 30px;
   color: whitesmoke;
   margin-block-end: 24px;
   font-family: "Racing Sans One";
   margin-bottom: 7rem;
+  margin-left: 50px;
 }
 .home-header__cta {
   min-inline-size: 236px;
   align-self: flex-start;
   margin-block-start: auto;
 }
+
 
 /*# sourceMappingURL=index.css.map */

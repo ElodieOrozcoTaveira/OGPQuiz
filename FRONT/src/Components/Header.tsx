@@ -44,8 +44,10 @@ const navItems: NavItem [] = [
       alt="drapeau à damier"
       className="home-header__flag" width="947" height="674"/>
     <div className="u_container home-header__container">
-     <h1 className="u-main-title home-header__title">Tu penses connaître le MotoGp?</h1>
-      <a href="#" className="c-red-link home-header__cta"> Choisis ton pilote 🏍️ </a>
+     <h1 className="u-main-title home-header__title">Si tu penses connaitre le MotoGP25 , 
+      teste toi 😄
+     </h1>
+      <a href="#" className="c-red-link home-header__cta"> Choisis ton quiz 🏍️ </a>
   </div>
      
 
