@@ -276,10 +276,30 @@ img {
 
 .error-page {
   display: flex;
-  border: yellow solid 10px;
+  flex-direction: column;
+  text-align: center;
 }
 .error-page__img {
-  height: 50%;
+  height: 30vw;
+}
+.error-page__text {
+  margin-top: 40px;
+  font-size: 60px;
+  font-family: "Racing Sans One";
+}
+.error-page__link {
+  margin-top: 20px;
+  font-size: 30px;
+  text-decoration: none;
+  background-color: rgba(192, 11, 11, 0.89);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  list-style-type: none;
+  font-family: "Racing Sans One";
+  text-shadow: 3px 3px 4px black;
 }
 
 .inscription-page {
@@ -349,6 +369,69 @@ img {
   flex-direction: column;
   min-height: 100vh; /* Très important: utilise 100% de la hauteur de la fenêtre */
   flex: 1 0 auto;
+}
+
+.connexion-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  width: 100%;
+  min-width: 100%;
+}
+
+.connexion-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 30px;
+  border: 5px rgba(192, 11, 11, 0.89) solid;
+  border-radius: 10px;
+  box-shadow: 3px 3px 4px rgba(192, 11, 11, 0.89);
+}
+.connexion-form__connexion {
+  font-family: "Racing Sans One";
+  font-size: 40px;
+}
+
+.form-connexion {
+  margin: 10px;
+}
+.form-connexion__btn-submit {
+  font-size: 20px;
+  margin-top: 15px;
+  padding: 15px;
+  border: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btn-submit:hover {
+  background-color: rgba(192, 11, 11, 0.89);
+}
+
+.btn-submit:active {
+  background-color: rgba(192, 11, 11, 0.89);
+  transform: translateY(1px);
+}
+
+.form-connexion label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: black;
+  font-family: "Racing Sans One";
+  font-size: 20px;
+}
+
+.form-connexion input {
+  width: 100%;
+  padding: 0.375rem;
+  border-radius: 5px;
+  font-size: 1rem;
 }
 
 body {

@@ -276,10 +276,30 @@ img {
 
 .error-page {
   display: flex;
-  border: yellow solid 10px;
+  flex-direction: column;
+  text-align: center;
 }
 .error-page__img {
-  height: 50%;
+  height: 30vw;
+}
+.error-page__text {
+  margin-top: 40px;
+  font-size: 60px;
+  font-family: "Racing Sans One";
+}
+.error-page__link {
+  margin-top: 20px;
+  font-size: 30px;
+  text-decoration: none;
+  background-color: rgba(192, 11, 11, 0.89);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  list-style-type: none;
+  font-family: "Racing Sans One";
+  text-shadow: 3px 3px 4px black;
 }
 
 .inscription-page {
